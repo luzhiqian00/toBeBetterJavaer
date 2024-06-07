@@ -252,7 +252,7 @@ LeetCode 的第 7 题《[007.整数反转](https://leetcode-cn.com/problems/reve
 
 ### 小结
 
-“我想，关于 StringBuilder、StringBuilder 之间的差别，你都搞清楚了吧？”我问。
+“我想，关于 StringBuffer、StringBuilder 之间的差别，你都搞清楚了吧？”我问。
 
 “搞清楚的话，可以通过 LeetCode 的第六题《006.Z 字形变换》进行测试，我把题解放在了[技术派](https://paicoding.com/column/7/6)上，你可以作为参考。”
 
